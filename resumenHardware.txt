@@ -1,0 +1,5 @@
+3 ejemplos de hardware
+1. Procesador
+2. RAM
+3. Tarjeta de video
+

@@ -1,0 +1,44 @@
+  178  git clone https://github.com/bryanvs98/Checkpoint-BryanVarela.git
+  179  cd Checkpoint-BryanVarela
+  180  touch main.js
+  181  touch index.html
+  182  git add.
+  183  ls
+  184  git add --all
+  185  git status
+  186  git commit "commit 1 de BRyan Varela"
+  187  git commit -m "commit 1 de Bryan Varela"
+  188  git config --global
+  189  git config user.name "Bryan Varela"
+  190  git config user.email "bryanvs_12@hotmail.com"
+  191  git commit -m "commit 1 de Bryan Varela"
+  192  git push origin main
+  193  git branch feauture
+  194  git checkout feauture
+  195  mkdir Hardware Software SeguridadInformatica
+  196  cd Hardware
+  197  touch resumen.txt
+  198  cd ..
+  199  cd Software
+  200  touch resumen.txt
+  201  cd ..
+  202  cd SeguridadInformatica
+  203  touch resumen.txt
+  204  git push origin feauture
+  205  ls 
+  206  cd ..
+  207  git checkout
+  208  git status
+  209   git add Hardware Software SeguridadInformatica
+  210  git status
+  211  git commit -m "commit 2 de Bryan Varela"
+  212  git push origin feauture
+  213  git checkout main
+  214  mv main.js resumenHardware.txt
+  215  mv index.html resumenSoftware.txt
+  216  ls
+  217  nano resumenSoftware.txt
+  218  nano resumenHardware.txt
+  219  history
+  220  history 41
+  221  history 44 > comandos.txt
